@@ -1,6 +1,6 @@
 import React from "react"
-import Header from "./Header"
-import MemeGenerator from "./MemeGenerator"
+import Header from "./header"
+import MemeGenerator from "./memegenerator"
 
 function App() {
     return (
